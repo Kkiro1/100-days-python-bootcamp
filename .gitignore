@@ -6,5 +6,8 @@ __pycache__/
 venv/
 .env/
 
-# VS Code settings
+# VS Code
 .vscode/
+
+# PyCharm
+.idea/
